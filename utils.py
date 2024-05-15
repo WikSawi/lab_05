@@ -1,5 +1,6 @@
 """method for operations on numbers"""
 
+
 def add(a: int, b: int) -> int:
     """adding two numbers"""
     return a + b
